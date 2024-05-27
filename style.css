@@ -203,6 +203,9 @@ ul{
     gap: 10px;
     justify-self: left;
 }
+.name_space{
+    display: flex;
+    
 .links{
     display: flex;
     justify-content: center;
