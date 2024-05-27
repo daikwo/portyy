@@ -204,7 +204,9 @@ ul{
     justify-self: left;
 }
 .name_space{
-   padding: 20px;
+   padding: 10px;
+    display: flex;
+    
     
     
 .links{
